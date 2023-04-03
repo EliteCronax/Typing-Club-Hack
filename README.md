@@ -1,7 +1,7 @@
 # Typing-Club-Hack
 Tutuorial:
 
-Copy or download the code
+Copy or download AutoTyper
 
 Go to typingclub.com
 
