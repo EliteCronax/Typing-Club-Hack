@@ -1,3 +1,5 @@
+window.alert ("Read the instructions as needed. By EliteCronax")
+
 //  ______ _ _ _        _____                            
 // |  ____| (_) |      / ____|                           
 // | |__  | |_| |_ ___| |     _ __ ___  _ __   __ ___  __
@@ -10,7 +12,7 @@
 // PLEASE BE SURE TO NOT GO BELOW 50 IN THE "const" MIN/MAX COMMAND!!1!
 // Note: the lower the number, the higher the WPM.
 
-const minDelay = 60; // Over here, 60 is he best as it works fine
+const minDelay = 60; // Over here, 60 is the best as it works fine and doesn't crash the website
 const maxDelay = 60; 
 
 
