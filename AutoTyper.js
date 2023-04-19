@@ -1,19 +1,16 @@
 window.alert ("Read the instructions as needed. By EliteCronax")
 
-//  ______ _ _ _        _____                            
-// |  ____| (_) |      / ____|                           
-// | |__  | |_| |_ ___| |     _ __ ___  _ __   __ ___  __
-// |  __| | | | __/ _ \ |    | '__/ _ \| '_ \ / _` \ \/ /
-// | |____| | | ||  __/ |____| | | (_) | | | | (_| |>  < 
-// |______|_|_|\__\___|\_____|_|  \___/|_| |_|\__,_/_/\_\
-//                                                       
-                                                       
+// ________               _____                    ______  __            ______  
+// ___  __/____  ____________(_)_____________ _    ___  / / /_____ _________  /__
+// __  /  __  / / /__  __ \_  /__  __ \_  __ `/    __  /_/ /_  __ `/  ___/_  //_/
+// _  /   _  /_/ /__  /_/ /  / _  / / /  /_/ /     _  __  / / /_/ // /__ _  ,<   
+// /_/    _\__, / _  .___//_/  /_/ /_/_\__, /      /_/ /_/  \__,_/ \___/ /_/|_|  
+//        /____/  /_/                 /____/                                                                                     
 
-// PLEASE BE SURE TO NOT GO BELOW 50 IN THE "const" MIN/MAX COMMAND!!1!
-// Note: the lower the number, the higher the WPM.
+// PLEASE BE SURE TO NOT GO PAST 50 IN THE "const" MIN/MAX COMMAND!!1!
 
-const minDelay = 60; // Over here, 60 is the best as it works fine and doesn't crash the website
-const maxDelay = 60; 
+const minDelay = 60;
+const maxDelay = 60;
 
 
 
