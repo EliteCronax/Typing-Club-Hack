@@ -1,5 +1,5 @@
 # Typing-Club-Hack
-Tutuorial:
+Tutorial:
 
 Copy or download AutoTyper
 
